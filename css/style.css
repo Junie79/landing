@@ -100,7 +100,7 @@ i.fa:hover {
 #loading {
   width: 100vw;
   height: 100vh;
-  background: #b52323cc;
+  background: #ff00004d;
   position: fixed;
   z-index: 999;
 }
