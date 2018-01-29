@@ -97,7 +97,7 @@ table {
 #loading {
   width: 100vw;
   height: 100vh;
-  background: #20232D;
+  background: #ff00004d;
   position: fixed;
   z-index: 999;
 }
