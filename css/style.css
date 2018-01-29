@@ -94,6 +94,9 @@ table {
 /* ------------------------------------- */
 /* Preloader styles .................... */
 /* ------------------------------------- */
+i.fa:hover {
+    color: #ff00007d !important;
+}
 #loading {
   width: 100vw;
   height: 100vh;
