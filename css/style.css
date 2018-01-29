@@ -432,7 +432,7 @@ sup {
 
 ::selection {
   color: #FFFFFF;
-  background-color: #0fe0ba;
+  background-color: #ff00004d;
 }
 
 /* ------------------------------------- */
@@ -1895,11 +1895,11 @@ footer p {
 }
 
 .ytb-overlay {
-  background: rgba(32, 35, 45, 0.6);
+  background: rgba(255, 0, 0, 0.4);
 }
 
 .light-overlay {
-  background: rgba(32, 35, 45, 0.5) !important;
+  background: rgba(255, 0, 0, 0.3) !important;
 }
 
 #player-nav {
@@ -1969,7 +1969,7 @@ footer p {
 }
 
 .fss-wrap:before {
-  background: rgba(32, 35, 45, 0.5) !important;
+  background: rgba(255, 0, 0, 0.3) !important;
 }
 
 .back-fss {
@@ -1990,7 +1990,7 @@ footer p {
 }
 
 #home-wrap:before {
-  background: rgba(32, 35, 45, 0.5) !important;
+  background: rgba(255, 0, 0, 0.3) !important;
 }
 
 /* ------------------------------------- */
