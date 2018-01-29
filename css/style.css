@@ -110,7 +110,7 @@ table {
   margin: 0 auto;
 }
 #loading #preloader:after {
-  content: "♥ Junie ♥";
+  content: "JUNIE IS LOADING";
   /* Text under the circles */
   position: absolute;
   text-transform: uppercase;
